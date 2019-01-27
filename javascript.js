@@ -59,13 +59,6 @@ for(i=1 ; i< 5; i++){
     }
 }
 
-
-
-
-
-
-
-
 function startCountdown(){
     action = setInterval(function(){
         timeremaining -=1;
